@@ -1,0 +1,596 @@
+
+
+body {
+    background-color: #181818;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em 0;
+}
+    
+
+header > nav > ul {
+    display: flex;
+}
+
+header > nav > ul > li {
+    margin: 0 2em;
+}
+
+.logo {
+    padding-left: 2em;
+    padding-right: 4em;
+}
+
+.nav-icons img {
+    padding-right: 2em;
+}
+
+.hero-slogan {
+    position: absolute;
+    bottom: 10em;
+    left: 25em;
+}
+
+.hero-slogan h1 {
+    
+    font-size: 6em;
+    font-weight: 900;
+    letter-spacing: 3px;
+}
+
+.intro {
+   
+    position: absolute;
+    left: 43em;
+    bottom: 28em;
+    line-height: 2em;
+   letter-spacing: 1px; 
+}
+
+.orange-blue {
+    width: 240px;
+    height: 70px;
+    border-radius: 100px;
+    position: absolute;
+    left: 25em;
+    bottom: 30em;
+}
+
+.keyboard-close-up {
+    width: 240px;
+    height: 70px;
+    border-radius: 100px;
+    position: absolute;
+    left: 25em;
+    top: 43em;
+}
+
+.backimg {
+    border-top-left-radius: 400px;
+    border-bottom-left-radius: 400px;
+    float: right;
+    height: auto;
+    width: 42%;
+}
+
+.socials p {
+    font-size: small;
+    position: absolute;
+    word-spacing: 5em;
+    rotate: 270deg;
+    top: 42em;
+    margin-left: -9em;  
+
+}
+
+.mail {
+   
+    position: relative;
+    margin-top: 45em;
+    margin-left: 25em;
+    letter-spacing: 1px;
+}
+
+.call {
+    
+    position: relative;
+    margin-top: -5em;
+    margin-left: 40em;
+    letter-spacing: 1px;
+}
+
+
+.team { 
+    margin-top: 15em;
+}
+
+.decal {
+    position: absolute;
+    left: 25em;
+    margin-top: -3em;
+    color: #303030;
+}
+
+.our-team {
+ position: absolute;
+    left: 25em;
+}
+
+.paragraph {
+    position: absolute;
+    left: 55em;
+    color: #ABABAB;
+    line-height: 30px;
+
+}
+
+.circle {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    background-color: #303030;
+    border-radius: 50%;
+    left: 25em;
+    top: 77em;
+    z-index: -1;
+    
+}
+
+.touch {
+    position: relative;
+    top: 9em;
+    margin-left: 26em;
+}
+
+.services {
+    background-color:#0E0E0E;
+}
+
+.title {
+    margin-top: 8em;
+    margin-left: 8em;
+    font-size: 3em;
+    letter-spacing: 3px;
+    position: relative;
+    bottom: 1em;
+}
+
+.services-list {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 25em;
+    padding-right: 25em;
+    padding-bottom: 10em;
+    padding-top: 5em;
+    text-align: center;
+}
+
+.services-list img {
+    position: relative;
+    width: 160px;
+    height: 230px;
+    border-radius: 100px;
+}
+
+.vision {
+    color: #303030;
+    position: relative;
+    margin-left: 55em;
+    padding-top: 10em;
+}
+
+.unlock {
+    position: relative;
+    margin-left: 55em;
+
+}
+
+
+.standarts {
+    position: absolute;
+    margin-left: 55em;
+}
+
+.focus {
+    position: absolute;
+    margin-left: 65em;
+    color: #303030;
+}
+
+.gray-line {
+    position: relative;
+    border: 1px solid #303030;
+    left: 55em;
+    top: 4em;
+    width: 20em;
+    
+}
+
+.white-line {
+    border: 1px solid #ABABAB;
+    position: relative;
+    left: 57em;
+    top: 4em;
+    width: 2em;
+
+
+}
+
+.paragraph2 {
+    line-height: 30px;
+    color: #ABABAB;
+    position: relative;
+    top: 6em;
+    margin-left: 55em;
+}
+
+.more {
+    letter-spacing: 1px;
+    position: relative;
+    top: 7em;
+    margin-left: 55em;
+}
+
+.vr-img {
+position: absolute;
+margin-top: -25em;
+height: auto;
+width: 30%;
+padding-left: 15em;
+
+}
+
+.bili {
+    color: #303030;
+    text-align: center;
+    position: relative;
+    top: 15em;
+    letter-spacing: 1px;
+}
+
+.logos {
+    position: relative;
+    top: 16em;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 25em;
+    padding-right: 25em;
+}
+
+.slogan {
+    position: absolute;
+    left: 25em;
+    margin-top: 30em;
+}
+
+.slogan h2 {
+    font-size: 6em;
+    font-weight: 900;
+    letter-spacing: 3px;
+}
+
+.slogan > h2 > span {
+    margin-left: 3em;
+}
+
+.phone {
+    left: 25em;
+    margin-top: 36em;
+    width: 250px;
+    height: 80px;
+    border-radius: 100px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.paragraph3 {
+    position: absolute;
+    margin-top: 50em;
+    left: 25em;
+
+}
+
+.backimg2 {
+    border-top-left-radius: 400px;
+    border-bottom-left-radius: 400px;
+    float: right;
+    height: auto;
+    width: 42%;
+    margin-top: 20em;
+}
+
+.numbers {
+    top: 18em;
+    left: 8em;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    font-size: 3em;
+    color: #E3742D;
+    padding-right: 2em;
+}
+
+.achieved {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    left: 29em;
+    top: 46em;
+    padding-right: 6em;
+}
+
+.meet {
+    position: relative;
+    top: 65em;
+    margin-left: 25em;
+    letter-spacing: 1px;
+
+}
+
+.meet h5 {
+    color: #303030;
+}
+
+.crew {
+    position: relative;
+    top: 17em;
+    text-align: right;
+    float: right;
+    font-size: 3em;
+    left:10em;
+
+}
+
+.crew h5 {
+    color: #E3742D;
+    font-size: medium;
+    position: relative;
+    top: 3em;
+}
+
+.crew h2 {
+    color: transparent;
+    -webkit-text-stroke: 1px white;
+}
+
+.colorfill {
+    -webkit-text-fill-color: white; 
+}
+
+.backgroundimg > img {
+    height: auto;
+    width: 100%;
+    margin-top: -10em;
+    box-sizing: border-box;
+}
+.circle2 {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background-color: #303030;
+    border-radius: 50%;
+    top: 65em;
+    left: 25em;
+}
+
+.viewteam-btn h5 {
+    position: absolute;
+    margin-top: 80em;
+    left: 33em;
+    z-index: 1;
+
+}
+
+.womanimg img {
+    bottom: 66em;
+    float: right;
+    right: 46em;
+    position: relative;
+    width: 250px;
+    height: 250px; 
+}
+
+
+
+.topovalimgs {
+    padding-top: 3em;
+    display: flex;
+    justify-content: space-between;
+    gap: 190px;
+}
+.bottomovalimgs {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1em;
+    gap: 125px;
+    
+}
+
+.ovalimgs img {
+    width: 370px;
+    height: 80px;
+    border-radius: 100px;
+    object-fit: cover;
+    align-items:center ;
+}
+
+.over1 img {
+ 
+    border-radius: 0px;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    width: 270px;
+}
+
+.over2 img {
+      border-radius: 0px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    width: 170px;
+}
+
+.over3 img {
+    border-radius: 0px;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    width: 110px;
+}
+
+.over4 img {
+    border-radius: 0px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    width: 310px;
+}
+
+
+.review1 p {
+    color: #ABABAB;
+    line-height: 30px;
+}
+
+.review2 p {
+    color: #ABABAB;
+    line-height: 30px;
+}
+
+.review1 {
+    position: absolute;
+    margin-left: 25em;
+}
+
+.review2 {
+position: absolute;
+    margin-left: 60em;
+}
+
+.reviews h2 {
+    font-size: 5em;
+    margin-left: 5em;
+    position: relative;
+
+}
+
+.arrownav {
+    position: absolute;
+    margin-left: 85em;
+    margin-top: -9em;
+
+}
+
+.review1 img {
+    width: 50px;
+    height: auto;
+    position: absolute;
+    margin-top: 1em;
+}
+
+.review2 img {
+    width: 50px;
+    height: auto;
+    position: absolute;
+    margin-top: 1em;
+}
+
+.review1 h4 {
+    padding-left: 4em;
+}
+
+.review2 h4 {
+    padding-left: 4em;
+}
+
+.line1 {
+    position: relative;
+    border: 1px solid #303030;
+    width: 465px;
+}
+
+.line2 {
+    position: relative;
+    border: 1px solid #303030;
+    width: 465px;
+}
+
+.pfp1 h5 {
+    position: absolute;
+    padding-left: 5em;
+    line-height: 20px;
+}
+
+.pfp2 h5 {
+    position: absolute;
+    padding-left: 5em;
+    line-height: 20px;
+}
+
+.footer-logos img {
+    height: auto;
+    width: 3%;
+    padding-right:1em;
+}
+
+.footer-details {
+    display: flex;
+    margin-top: 30em;
+    position: relative;
+    margin-left: 35em;
+    padding-top: 5em;
+}
+
+
+.footer-contacts {
+    position: absolute;
+    margin-left: 16em;
+}
+
+.subscribe {
+    position: absolute;
+    margin-left: 32em;
+}
+
+.footer-logo img {
+    position: absolute;
+    margin-left: -19em;
+    height: auto;
+    width: 5%;
+    margin-top: 1em;
+}
+
+
+.footer-line {    
+    border: 1px solid #303030;
+    width: 360px;
+}
+
+footer {
+    background-color: #0E0E0E;
+}
+
+.copyright {
+        padding-top: 5em;
+        gap: 24em;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        position: relative;
+        margin-left: 25em;
+        color: #ABABAB;
+}
+
+.terms {
+    gap: 5em;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    }
